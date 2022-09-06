@@ -1,0 +1,28 @@
+C:\Users\DAkula\OneDrive - Prolifics Corporation Ltd.,\Desktop\PEP369\WebApiApplication\EmployeeDb\bin\Debug\net6.0\EmployeeDb.deps.json
+C:\Users\DAkula\OneDrive - Prolifics Corporation Ltd.,\Desktop\PEP369\WebApiApplication\EmployeeDb\bin\Debug\net6.0\EmployeeDb.runtimeconfig.json
+C:\Users\DAkula\OneDrive - Prolifics Corporation Ltd.,\Desktop\PEP369\WebApiApplication\EmployeeDb\bin\Debug\net6.0\EmployeeDb.dll
+C:\Users\DAkula\OneDrive - Prolifics Corporation Ltd.,\Desktop\PEP369\WebApiApplication\EmployeeDb\bin\Debug\net6.0\EmployeeDb.pdb
+C:\Users\DAkula\OneDrive - Prolifics Corporation Ltd.,\Desktop\PEP369\WebApiApplication\EmployeeDb\obj\Debug\net6.0\EmployeeDb.csproj.AssemblyReference.cache
+C:\Users\DAkula\OneDrive - Prolifics Corporation Ltd.,\Desktop\PEP369\WebApiApplication\EmployeeDb\obj\Debug\net6.0\EmployeeDb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DAkula\OneDrive - Prolifics Corporation Ltd.,\Desktop\PEP369\WebApiApplication\EmployeeDb\obj\Debug\net6.0\EmployeeDb.AssemblyInfoInputs.cache
+C:\Users\DAkula\OneDrive - Prolifics Corporation Ltd.,\Desktop\PEP369\WebApiApplication\EmployeeDb\obj\Debug\net6.0\EmployeeDb.AssemblyInfo.cs
+C:\Users\DAkula\OneDrive - Prolifics Corporation Ltd.,\Desktop\PEP369\WebApiApplication\EmployeeDb\obj\Debug\net6.0\EmployeeDb.csproj.CoreCompileInputs.cache
+C:\Users\DAkula\OneDrive - Prolifics Corporation Ltd.,\Desktop\PEP369\WebApiApplication\EmployeeDb\obj\Debug\net6.0\EmployeeDb.dll
+C:\Users\DAkula\OneDrive - Prolifics Corporation Ltd.,\Desktop\PEP369\WebApiApplication\EmployeeDb\obj\Debug\net6.0\refint\EmployeeDb.dll
+C:\Users\DAkula\OneDrive - Prolifics Corporation Ltd.,\Desktop\PEP369\WebApiApplication\EmployeeDb\obj\Debug\net6.0\EmployeeDb.pdb
+C:\Users\DAkula\OneDrive - Prolifics Corporation Ltd.,\Desktop\PEP369\WebApiApplication\EmployeeDb\obj\Debug\net6.0\EmployeeDb.genruntimeconfig.cache
+C:\Users\DAkula\OneDrive - Prolifics Corporation Ltd.,\Desktop\PEP369\WebApiApplication\EmployeeDb\obj\Debug\net6.0\ref\EmployeeDb.dll
+C:\WebApiApplication\EmployeeDb\bin\Debug\net6.0\EmployeeDb.deps.json
+C:\WebApiApplication\EmployeeDb\bin\Debug\net6.0\EmployeeDb.runtimeconfig.json
+C:\WebApiApplication\EmployeeDb\bin\Debug\net6.0\EmployeeDb.dll
+C:\WebApiApplication\EmployeeDb\bin\Debug\net6.0\EmployeeDb.pdb
+C:\WebApiApplication\EmployeeDb\obj\Debug\net6.0\EmployeeDb.csproj.AssemblyReference.cache
+C:\WebApiApplication\EmployeeDb\obj\Debug\net6.0\EmployeeDb.GeneratedMSBuildEditorConfig.editorconfig
+C:\WebApiApplication\EmployeeDb\obj\Debug\net6.0\EmployeeDb.AssemblyInfoInputs.cache
+C:\WebApiApplication\EmployeeDb\obj\Debug\net6.0\EmployeeDb.AssemblyInfo.cs
+C:\WebApiApplication\EmployeeDb\obj\Debug\net6.0\EmployeeDb.csproj.CoreCompileInputs.cache
+C:\WebApiApplication\EmployeeDb\obj\Debug\net6.0\EmployeeDb.dll
+C:\WebApiApplication\EmployeeDb\obj\Debug\net6.0\refint\EmployeeDb.dll
+C:\WebApiApplication\EmployeeDb\obj\Debug\net6.0\EmployeeDb.pdb
+C:\WebApiApplication\EmployeeDb\obj\Debug\net6.0\EmployeeDb.genruntimeconfig.cache
+C:\WebApiApplication\EmployeeDb\obj\Debug\net6.0\ref\EmployeeDb.dll

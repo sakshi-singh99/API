@@ -1,9 +1,12 @@
-﻿namespace WebApiApplication.viewModel
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace WebApiApplication.viewModel
 {
     public class AppraisalDetails
     {
-        public int EmployeeNumber { set; get; }
-        public DateOnly QuarterYear { set; get; }
+        [Key]
+        public Guid EmployeeNumber { set; get; }
+        public DateTime QuarterYear { set; get; }
         public  int NumberOfGoals { set; get; }
         public string NineGridScoreDescription { set; get; }
         public string Reviewer { set; get; }

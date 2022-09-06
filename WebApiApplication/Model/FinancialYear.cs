@@ -1,9 +1,12 @@
-﻿namespace WebApiApplication.viewModel
+﻿using Microsoft.EntityFrameworkCore;
+
+namespace WebApiApplication.viewModel
 {
+    [Keyless]
     public class FinancialYear
     {
         public string FinancialYearName { set; get; }
-        public DateOnly FromDate { set; get; }
-        public DateOnly ToDate { set; get; }
+        public DateTime FromDate { set; get; }
+        public DateTime ToDate { set; get; }
     }
 }

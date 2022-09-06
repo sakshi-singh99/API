@@ -1,5 +1,8 @@
-﻿namespace WebApiApplication.viewModel
+﻿using Microsoft.EntityFrameworkCore;
+
+namespace WebApiApplication.viewModel
 {
+    [Keyless]
     public class QuarterDetails
     {
         public string QuarterFinancialYearName { set; get; }
