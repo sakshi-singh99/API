@@ -1,0 +1,4 @@
+﻿CREATE TABLE Goals(
+    GoalName VARCHAR(50) NOT NULL,
+    GoalType VARCHAR(50) NOT NULL,
+);

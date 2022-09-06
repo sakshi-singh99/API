@@ -1,5 +1,9 @@
-﻿namespace WebApiApplication.viewModel
+﻿
+using Microsoft.EntityFrameworkCore;
+
+namespace WebApiApplication.viewModel
 {
+    [Keyless]
     public class EmployeeGoalObjectives
     {
         public string EmployeeQuarterlyGoalName { set; get; }

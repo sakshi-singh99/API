@@ -1,10 +1,13 @@
-﻿namespace WebApiApplication.viewModel
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace WebApiApplication.viewModel
 {
     public class CheckList
     {
-        public int EmployeeId { set; get; }
-        public DateOnly QuarterYear { set; get; }
-        public string Type { set; get; }    
+        [Key]
+        public Guid EmployeeId { set; get; }
+        public DateTime QuarterYear { set; get; }
+        public string CType { set; get; }    
         public int Achievable { set; get; }
         public int Achieved { set; get; }
     }

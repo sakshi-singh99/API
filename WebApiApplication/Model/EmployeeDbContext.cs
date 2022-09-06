@@ -4,6 +4,11 @@ namespace WebApiApplication.viewModel
 {
     public class EmployeeDbContext:DbContext
     {
+        public EmployeeDbContext()
+        {
+        }
+
+        public EmployeeDbContext(DbContextOptions<EmployeeDbContext> options) : base(options) { }
         public DbSet<Employees> Employees { get; set; }
         public DbSet<AppraisalDetails> AppraisalDetails { get; set; }
         public DbSet<CheckList> checkLists { get; set; }
