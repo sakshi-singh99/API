@@ -12431,23 +12431,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\DAkula\\.nuget\\packages\\": {},
+    "C:\\Users\\saksingh\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\WebApiApplication\\WebApiApplication\\WebApiApplication.csproj",
+      "projectUniqueName": "C:\\Users\\saksingh\\Desktop\\pepapi\\pep369api\\WebApiApplication\\WebApiApplication.csproj",
       "projectName": "WebApiApplication",
-      "projectPath": "C:\\WebApiApplication\\WebApiApplication\\WebApiApplication.csproj",
-      "packagesPath": "C:\\Users\\DAkula\\.nuget\\packages\\",
-      "outputPath": "C:\\WebApiApplication\\WebApiApplication\\obj\\",
+      "projectPath": "C:\\Users\\saksingh\\Desktop\\pepapi\\pep369api\\WebApiApplication\\WebApiApplication.csproj",
+      "packagesPath": "C:\\Users\\saksingh\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\saksingh\\Desktop\\pepapi\\pep369api\\WebApiApplication\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\DAkula\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\saksingh\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -12463,8 +12463,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\WebApiApplication\\EmployeeDb\\EmployeeDb.csproj": {
-              "projectPath": "C:\\WebApiApplication\\EmployeeDb\\EmployeeDb.csproj"
+            "C:\\Users\\saksingh\\Desktop\\pepapi\\pep369api\\EmployeeDb\\EmployeeDb.csproj": {
+              "projectPath": "C:\\Users\\saksingh\\Desktop\\pepapi\\pep369api\\EmployeeDb\\EmployeeDb.csproj"
             }
           }
         }

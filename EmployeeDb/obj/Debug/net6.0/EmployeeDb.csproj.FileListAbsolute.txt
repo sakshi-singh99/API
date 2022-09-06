@@ -26,3 +26,17 @@ C:\WebApiApplication\EmployeeDb\obj\Debug\net6.0\refint\EmployeeDb.dll
 C:\WebApiApplication\EmployeeDb\obj\Debug\net6.0\EmployeeDb.pdb
 C:\WebApiApplication\EmployeeDb\obj\Debug\net6.0\EmployeeDb.genruntimeconfig.cache
 C:\WebApiApplication\EmployeeDb\obj\Debug\net6.0\ref\EmployeeDb.dll
+C:\Users\saksingh\Desktop\pepapi\pep369api\EmployeeDb\bin\Debug\net6.0\EmployeeDb.deps.json
+C:\Users\saksingh\Desktop\pepapi\pep369api\EmployeeDb\bin\Debug\net6.0\EmployeeDb.runtimeconfig.json
+C:\Users\saksingh\Desktop\pepapi\pep369api\EmployeeDb\bin\Debug\net6.0\EmployeeDb.dll
+C:\Users\saksingh\Desktop\pepapi\pep369api\EmployeeDb\bin\Debug\net6.0\EmployeeDb.pdb
+C:\Users\saksingh\Desktop\pepapi\pep369api\EmployeeDb\obj\Debug\net6.0\EmployeeDb.csproj.AssemblyReference.cache
+C:\Users\saksingh\Desktop\pepapi\pep369api\EmployeeDb\obj\Debug\net6.0\EmployeeDb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saksingh\Desktop\pepapi\pep369api\EmployeeDb\obj\Debug\net6.0\EmployeeDb.AssemblyInfoInputs.cache
+C:\Users\saksingh\Desktop\pepapi\pep369api\EmployeeDb\obj\Debug\net6.0\EmployeeDb.AssemblyInfo.cs
+C:\Users\saksingh\Desktop\pepapi\pep369api\EmployeeDb\obj\Debug\net6.0\EmployeeDb.csproj.CoreCompileInputs.cache
+C:\Users\saksingh\Desktop\pepapi\pep369api\EmployeeDb\obj\Debug\net6.0\EmployeeDb.dll
+C:\Users\saksingh\Desktop\pepapi\pep369api\EmployeeDb\obj\Debug\net6.0\refint\EmployeeDb.dll
+C:\Users\saksingh\Desktop\pepapi\pep369api\EmployeeDb\obj\Debug\net6.0\EmployeeDb.pdb
+C:\Users\saksingh\Desktop\pepapi\pep369api\EmployeeDb\obj\Debug\net6.0\EmployeeDb.genruntimeconfig.cache
+C:\Users\saksingh\Desktop\pepapi\pep369api\EmployeeDb\obj\Debug\net6.0\ref\EmployeeDb.dll
